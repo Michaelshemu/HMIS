@@ -1,0 +1,87 @@
+C:\Users\shemu\Documents\Visual Studio 2013\Projects\Mysystem\Mysystem\bin\Debug\Mysystem.exe.config
+C:\Users\shemu\Documents\Visual Studio 2013\Projects\Mysystem\Mysystem\obj\Debug\Mysystem.exe
+C:\Users\shemu\Documents\Visual Studio 2013\Projects\Mysystem\Mysystem\obj\Debug\Mysystem.xml
+C:\Users\shemu\Documents\Visual Studio 2013\Projects\Mysystem\Mysystem\obj\Debug\Mysystem.pdb
+C:\Users\shemu\Documents\Visual Studio 2013\Projects\Mysystem\Mysystem\bin\Debug\Mysystem.exe
+C:\Users\shemu\Documents\Visual Studio 2013\Projects\Mysystem\Mysystem\bin\Debug\Mysystem.pdb
+C:\Users\shemu\Documents\Visual Studio 2013\Projects\Mysystem\Mysystem\bin\Debug\Mysystem.xml
+C:\Users\shemu\Documents\Visual Studio 2013\Projects\Mysystem\Mysystem\obj\Debug\Mysystem.AssignedMedical.resources
+C:\Users\shemu\Documents\Visual Studio 2013\Projects\Mysystem\Mysystem\obj\Debug\Mysystem.Doctor.resources
+C:\Users\shemu\Documents\Visual Studio 2013\Projects\Mysystem\Mysystem\obj\Debug\Mysystem.DRUGS.resources
+C:\Users\shemu\Documents\Visual Studio 2013\Projects\Mysystem\Mysystem\obj\Debug\Mysystem.FromLb.resources
+C:\Users\shemu\Documents\Visual Studio 2013\Projects\Mysystem\Mysystem\obj\Debug\Mysystem.FromReception.resources
+C:\Users\shemu\Documents\Visual Studio 2013\Projects\Mysystem\Mysystem\obj\Debug\Mysystem.Home.resources
+C:\Users\shemu\Documents\Visual Studio 2013\Projects\Mysystem\Mysystem\obj\Debug\Mysystem.LabTech.resources
+C:\Users\shemu\Documents\Visual Studio 2013\Projects\Mysystem\Mysystem\obj\Debug\Mysystem.Login.resources
+C:\Users\shemu\Documents\Visual Studio 2013\Projects\Mysystem\Mysystem\obj\Debug\Mysystem.Medical.resources
+C:\Users\shemu\Documents\Visual Studio 2013\Projects\Mysystem\Mysystem\obj\Debug\Mysystem.medicinelist.resources
+C:\Users\shemu\Documents\Visual Studio 2013\Projects\Mysystem\Mysystem\obj\Debug\Mysystem.Reception.resources
+C:\Users\shemu\Documents\Visual Studio 2013\Projects\Mysystem\Mysystem\obj\Debug\Mysystem.Registration.resources
+C:\Users\shemu\Documents\Visual Studio 2013\Projects\Mysystem\Mysystem\obj\Debug\Mysystem.Resources.resources
+C:\Users\shemu\Documents\Visual Studio 2013\Projects\Mysystem\Mysystem\obj\Debug\Mysystem.TestItems.resources
+C:\Users\shemu\Documents\Visual Studio 2013\Projects\Mysystem\Mysystem\obj\Debug\Mysystem.userTests.resources
+C:\Users\shemu\Documents\Visual Studio 2013\Projects\Mysystem\Mysystem\obj\Debug\DeltaPlyclinic.vbproj.GenerateResource.Cache
+C:\Users\shemu\Documents\Visual Studio 2013\Projects\Mysystem\Mysystem\obj\Debug\DeltaPlyclinic.vbprojResolveAssemblyReference.cache
+C:\Users\shemu\Documents\Visual Studio 2013\Projects\Mysystem\Mysystem\obj\Debug\Mysystem.Form1.resources
+C:\Users\shemu\Documents\Visual Studio 2013\Projects\Mysystem\Mysystem\obj\Debug\RdlCompile.cache
+C:\Users\shemu\Documents\Visual Studio 2013\Projects\Mysystem\Mysystem\obj\Debug\RdlCompile.compiled
+C:\Users\shemu\Documents\Visual Studio 2013\Projects\Mysystem\Mysystem\obj\Debug\Mysystem.Doctor_Payment.resources
+E:\1\hospital-management-system\Mysystem\bin\Debug\Mysystem.exe.config
+E:\1\hospital-management-system\Mysystem\obj\Debug\Mysystem.exe
+E:\1\hospital-management-system\Mysystem\obj\Debug\Mysystem.xml
+E:\1\hospital-management-system\Mysystem\obj\Debug\Mysystem.pdb
+E:\1\hospital-management-system\Mysystem\bin\Debug\Mysystem.exe
+E:\1\hospital-management-system\Mysystem\bin\Debug\Mysystem.pdb
+E:\1\hospital-management-system\Mysystem\bin\Debug\Mysystem.xml
+E:\1\hospital-management-system\Mysystem\obj\Debug\DeltaPlyclinic.vbprojResolveAssemblyReference.cache
+E:\1\hospital-management-system\Mysystem\obj\Debug\Mysystem.AssignedMedical.resources
+E:\1\hospital-management-system\Mysystem\obj\Debug\Mysystem.Doctor_Payment.resources
+E:\1\hospital-management-system\Mysystem\obj\Debug\Mysystem.Doctor.resources
+E:\1\hospital-management-system\Mysystem\obj\Debug\Mysystem.DRUGS.resources
+E:\1\hospital-management-system\Mysystem\obj\Debug\Mysystem.Form1.resources
+E:\1\hospital-management-system\Mysystem\obj\Debug\Mysystem.FromLb.resources
+E:\1\hospital-management-system\Mysystem\obj\Debug\Mysystem.FromReception.resources
+E:\1\hospital-management-system\Mysystem\obj\Debug\Mysystem.Home.resources
+E:\1\hospital-management-system\Mysystem\obj\Debug\Mysystem.LabTech.resources
+E:\1\hospital-management-system\Mysystem\obj\Debug\Mysystem.Login.resources
+E:\1\hospital-management-system\Mysystem\obj\Debug\Mysystem.Medical.resources
+E:\1\hospital-management-system\Mysystem\obj\Debug\Mysystem.medicinelist.resources
+E:\1\hospital-management-system\Mysystem\obj\Debug\Mysystem.Reception.resources
+E:\1\hospital-management-system\Mysystem\obj\Debug\Mysystem.Registration.resources
+E:\1\hospital-management-system\Mysystem\obj\Debug\Mysystem.Resources.resources
+E:\1\hospital-management-system\Mysystem\obj\Debug\Mysystem.TestItems.resources
+E:\1\hospital-management-system\Mysystem\obj\Debug\Mysystem.userTests.resources
+E:\1\hospital-management-system\Mysystem\obj\Debug\DeltaPlyclinic.vbproj.GenerateResource.Cache
+E:\1\hospital-management-system\Mysystem\obj\Debug\RdlCompile.cache
+E:\1\hospital-management-system\Mysystem\obj\Debug\RdlCompile.compiled
+C:\Users\Mikaeel\Documents\Visual Studio 2013\Projects\hospital-management-system\Mysystem\bin\Debug\Mysystem.exe.config
+C:\Users\Mikaeel\Documents\Visual Studio 2013\Projects\hospital-management-system\Mysystem\obj\Debug\Mysystem.exe
+C:\Users\Mikaeel\Documents\Visual Studio 2013\Projects\hospital-management-system\Mysystem\obj\Debug\Mysystem.xml
+C:\Users\Mikaeel\Documents\Visual Studio 2013\Projects\hospital-management-system\Mysystem\obj\Debug\Mysystem.pdb
+C:\Users\Mikaeel\Documents\Visual Studio 2013\Projects\hospital-management-system\Mysystem\bin\Debug\Mysystem.exe
+C:\Users\Mikaeel\Documents\Visual Studio 2013\Projects\hospital-management-system\Mysystem\bin\Debug\Mysystem.pdb
+C:\Users\Mikaeel\Documents\Visual Studio 2013\Projects\hospital-management-system\Mysystem\bin\Debug\Mysystem.xml
+C:\Users\Mikaeel\Documents\Visual Studio 2013\Projects\hospital-management-system\Mysystem\obj\Debug\DeltaPlyclinic.vbprojResolveAssemblyReference.cache
+C:\Users\Mikaeel\Documents\Visual Studio 2013\Projects\hospital-management-system\Mysystem\obj\Debug\Mysystem.AssignedMedical.resources
+C:\Users\Mikaeel\Documents\Visual Studio 2013\Projects\hospital-management-system\Mysystem\obj\Debug\Mysystem.Doctor_Payment.resources
+C:\Users\Mikaeel\Documents\Visual Studio 2013\Projects\hospital-management-system\Mysystem\obj\Debug\Mysystem.Doctor.resources
+C:\Users\Mikaeel\Documents\Visual Studio 2013\Projects\hospital-management-system\Mysystem\obj\Debug\Mysystem.DRUGS.resources
+C:\Users\Mikaeel\Documents\Visual Studio 2013\Projects\hospital-management-system\Mysystem\obj\Debug\Mysystem.FromLb.resources
+C:\Users\Mikaeel\Documents\Visual Studio 2013\Projects\hospital-management-system\Mysystem\obj\Debug\Mysystem.FromReception.resources
+C:\Users\Mikaeel\Documents\Visual Studio 2013\Projects\hospital-management-system\Mysystem\obj\Debug\Mysystem.Home.resources
+C:\Users\Mikaeel\Documents\Visual Studio 2013\Projects\hospital-management-system\Mysystem\obj\Debug\Mysystem.LabTech.resources
+C:\Users\Mikaeel\Documents\Visual Studio 2013\Projects\hospital-management-system\Mysystem\obj\Debug\Mysystem.Login.resources
+C:\Users\Mikaeel\Documents\Visual Studio 2013\Projects\hospital-management-system\Mysystem\obj\Debug\Mysystem.Medical.resources
+C:\Users\Mikaeel\Documents\Visual Studio 2013\Projects\hospital-management-system\Mysystem\obj\Debug\Mysystem.medicinelist.resources
+C:\Users\Mikaeel\Documents\Visual Studio 2013\Projects\hospital-management-system\Mysystem\obj\Debug\Mysystem.Reception.resources
+C:\Users\Mikaeel\Documents\Visual Studio 2013\Projects\hospital-management-system\Mysystem\obj\Debug\Mysystem.Registration.resources
+C:\Users\Mikaeel\Documents\Visual Studio 2013\Projects\hospital-management-system\Mysystem\obj\Debug\Mysystem.Resources.resources
+C:\Users\Mikaeel\Documents\Visual Studio 2013\Projects\hospital-management-system\Mysystem\obj\Debug\Mysystem.TestItems.resources
+C:\Users\Mikaeel\Documents\Visual Studio 2013\Projects\hospital-management-system\Mysystem\obj\Debug\Mysystem.userTests.resources
+C:\Users\Mikaeel\Documents\Visual Studio 2013\Projects\hospital-management-system\Mysystem\obj\Debug\DeltaPlyclinic.vbproj.GenerateResource.Cache
+C:\Users\Mikaeel\Documents\Visual Studio 2013\Projects\hospital-management-system\Mysystem\obj\Debug\RdlCompile.cache
+C:\Users\Mikaeel\Documents\Visual Studio 2013\Projects\hospital-management-system\Mysystem\obj\Debug\RdlCompile.compiled
+D:\SYSTYEM\hospital-management-system\Mysystem\bin\Debug\Mysystem.exe.config
+D:\SYSTYEM\hospital-management-system\Mysystem\obj\Debug\Mysystem.exe
+D:\SYSTYEM\hospital-management-system\Mysystem\obj\Debug\Mysystem.xml
+D:\SYSTYEM\hospital-management-system\Mysystem\obj\Debug\Mysystem.pdb
